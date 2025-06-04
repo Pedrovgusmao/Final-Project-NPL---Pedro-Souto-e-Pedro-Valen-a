@@ -1,0 +1,10 @@
+flask
+flask-cors
+qdrant-client
+pillow
+requests
+python-dotenv
+llama-index-embeddings-huggingface
+torch
+transformers
+sentence-transformers
